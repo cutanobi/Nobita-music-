@@ -135,8 +135,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("DevilsHeavenMF")
-                await self.five.join_chat("FallenAssociation")
+                await self.five.join_chat("https://t.me/NOBITA_KI_DUNIYA1")
+                await self.five.join_chat("https://t.me/WHATAPP_GROUP9")
             except:
                 pass
             assistants.append(5)
