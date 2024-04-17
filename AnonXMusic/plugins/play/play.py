@@ -39,7 +39,7 @@ from config import BANNED_USERS, lyrical
         ]
     )
     & filters.group
-    & ~BANNED_USERS
+    & ~NOBITADP_l
 )
 @PlayWrapper
 async def play_commnd(
