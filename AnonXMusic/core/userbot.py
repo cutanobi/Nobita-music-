@@ -52,7 +52,7 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("https://t.me/NOBITA_KI_DUNIYA1")
-                await self.one.join_chat("https://t.me/WHATAPP_GROUP9")
+                await self.one.join_chat("https://t.me/+oyXOWKIKPIpiYTZl")
             except:
                 pass
             assistants.append(1)
@@ -73,7 +73,7 @@ class Userbot(Client):
             await self.two.start()
             try:
                 await self.two.join_chat("https://t.me/NOBITA_KI_DUNIYA1")
-                await self.two.join_chat("https://t.me/WHATAPP_GROUP9")
+                await self.two.join_chat("https://t.me/+oyXOWKIKPIpiYTZl")
             except:
                 pass
             assistants.append(2)
@@ -94,7 +94,7 @@ class Userbot(Client):
             await self.three.start()
             try:
                 await self.three.join_chat("https://t.me/NOBITA_KI_DUNIYA1")
-                await self.three.join_chat("https://t.me/WHATAPP_GROUP9")
+                await self.three.join_chat("https://t.me/+oyXOWKIKPIpiYTZl")
             except:
                 pass
             assistants.append(3)
@@ -115,7 +115,7 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("https://t.me/NOBITA_KI_DUNIYA1")
-                await self.four.join_chat("https://t.me/WHATAPP_GROUP9")
+                await self.four.join_chat("https://t.me/+oyXOWKIKPIpiYTZl")
             except:
                 pass
             assistants.append(4)
@@ -136,7 +136,7 @@ class Userbot(Client):
             await self.five.start()
             try:
                 await self.five.join_chat("https://t.me/NOBITA_KI_DUNIYA1")
-                await self.five.join_chat("https://t.me/WHATAPP_GROUP9")
+                await self.five.join_chat("https://t.me/+oyXOWKIKPIpiYTZl")
             except:
                 pass
             assistants.append(5)
